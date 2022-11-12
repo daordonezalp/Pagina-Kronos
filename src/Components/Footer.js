@@ -37,7 +37,7 @@ class Footer extends Component {
                 <a target="_blank" rel="noreferrer" href="https://icons8.com">React, Python, Docker, Apple, AWS, Jira</a> icon by <a target="_blank" rel="noreferrer" href="https://icons8.com">Icons8</a>
               </ul>
             </div>
-          </Fade>c
+          </Fade>
 
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
