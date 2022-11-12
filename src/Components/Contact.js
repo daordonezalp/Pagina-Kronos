@@ -19,7 +19,7 @@ class Contact extends Component {
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
-                <span>Get In Touch.</span>
+                <span>Contacto</span>
               </h1>
             </div>
 
@@ -113,7 +113,7 @@ class Contact extends Component {
                   {street} <br />
                   {city} {state} {zip}
                   <br />
-                  <span><a href="https://api.whatsapp.com/send?phone=573194265733">{phone}</a></span>
+                  <span><a href="https://api.whatsapp.com/send?phone=573246777162">{phone}</a></span>
                 </p>
               </div>
 
